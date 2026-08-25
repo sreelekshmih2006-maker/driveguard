@@ -574,6 +574,19 @@ It should not be considered a certified automotive safety system. All hardware, 
 
 # 👥 Project
 
+
+
+https://github.com/user-attachments/assets/e8352895-28c3-4eb3-92e0-553f241ed4dc<img width="1600" height="900" alt="WhatsApp Image 2026-08-25 at 9 50 50 PM" src="https://github.com/user-attachments/assets/d5219e91-e747-4165-a447-387d9f40a9c6" />
+
+
+
+
+
+
+
+
+
+
 **DriveGuard**
 
 An intelligent, affordable approach to driver safety in hazardous road environments.
