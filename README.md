@@ -1,9 +1,4 @@
-# Driveguard
-DriveGuard is a smart driver assistance and safety monitoring system designed to enhance road safety in hazardous driving conditions such as dense fog, mountainous roads, hairpin bends, and low-visibility environments.
-Absolutely. For GitHub, I’d make it less like a project report and more like a polished engineering repository-strong opening, architecture, features, hardware/software stack, setup, methodology, limitations, and roadmap.
-
-# DriveGuard 🚗
-
+# DriveGuard 
 ### Intelligent Driver Safety Monitoring & Warning System for Hazardous Road Conditions
 
 > Sense the environment. Understand the road. Warn before it's too late.
@@ -566,43 +561,6 @@ Current limitations include:
 * GPS hazard detection depends on the quality of the hazard database.
 * Sensor thresholds require calibration for specific vehicles and environments.
 * A prototype system should not be used as the sole safety mechanism in a production vehicle.
-
----
-
-# 🔮 Future Roadmap
-
-### Phase 1 — Prototype
-
-* [x] Environmental monitoring
-* [x] Temperature & humidity sensing
-* [x] Ultrasonic obstacle detection
-* [x] GPS integration
-* [x] OLED driver interface
-* [x] Risk-level classification
-
-### Phase 2 — Intelligent Detection
-
-* [ ] Complete MYOSA IMU integration
-* [ ] Complete barometric altitude integration
-* [ ] Gesture-based driver interaction
-* [ ] Improved fog/visibility estimation
-* [ ] Dynamic hazard database
-
-### Phase 3 — AI-Assisted Safety
-
-* [ ] Machine-learning-based risk prediction
-* [ ] Camera-based visibility estimation
-* [ ] Lane detection
-* [ ] Vehicle and pedestrian detection
-* [ ] Driver behaviour analysis
-
-### Phase 4 — Advanced ADAS
-
-* [ ] Radar integration
-* [ ] LiDAR integration
-* [ ] Vehicle-to-Vehicle communication
-* [ ] Cloud-based hazard updates
-* [ ] Semi-autonomous safety assistance
 
 ---
 
