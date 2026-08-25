@@ -548,21 +548,6 @@ REDUCE SPEED
 
 ---
 
-# 🔬 Limitations
-
-DriveGuard is an **assistive safety prototype** and is not intended to replace certified automotive safety systems or driver judgment.
-
-Current limitations include:
-
-* Temperature and humidity indicate fog-favorable conditions rather than directly measuring visibility.
-* Ultrasonic sensors have limited range and field of view.
-* GPS accuracy depends on satellite availability and environmental conditions.
-* Barometric altitude is affected by atmospheric pressure changes.
-* GPS hazard detection depends on the quality of the hazard database.
-* Sensor thresholds require calibration for specific vehicles and environments.
-* A prototype system should not be used as the sole safety mechanism in a production vehicle.
-
----
 
 # 🌍 Applications
 
